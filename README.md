@@ -10,8 +10,8 @@ git init
 
 git clone https://github.com/sapan2211/GitBasics.git
 
-git commit -m "My message"
+git add .
 
-git remote add my-origin https://github.com/sapan2211/GitBasics.git
+git commit -m "Commit Message"
 
 git push -u origin master
